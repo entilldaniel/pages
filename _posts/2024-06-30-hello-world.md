@@ -1,6 +1,5 @@
 ---
-title: "my-first"
+title: "Hello World!"
 date: 2024-06-30
 ---
-# This is my first post.
-...
+This is my very first post, nothing special here.

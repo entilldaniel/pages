@@ -1,2 +1,1 @@
-# My Pages
-I'll try to collect some of my thoughts here.
+Some of my thoughts, mostly development in elixir, sourdough and the occasional random thought.
